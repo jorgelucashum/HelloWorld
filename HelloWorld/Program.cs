@@ -23,7 +23,7 @@ namespace HelloWorld
             dynamic cor = "azul"; // pode mudar o tipo da variavel usando dynamic
             cor = 12.1f; // dynamic alterado pra float
 
-            const float PI = 3.14654165f; //const - declarar constante, valor que nao pode ser alterado
+            const float PI = 3.14654165f; //const - declarar constante, valor que nao pode ser alterado.
 
             string corFav = "verde";
             int numFav = 60;
