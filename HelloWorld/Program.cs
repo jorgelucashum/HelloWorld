@@ -39,7 +39,7 @@ namespace HelloWorld
             Console.WriteLine(velFav);
 
             Console.WriteLine("Escreva seu nome: ");
-            string nome = Console.ReadLine(); // receber/capturar dados do usuário
+            string nome = Console.ReadLine(); // receber/capturar dados do usuário.
             Console.WriteLine("seu nome é: " + nome);
 
 
